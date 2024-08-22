@@ -18,8 +18,7 @@ How Version Control Maintains Project Integrity:
    Select whether your repository will be Public or Private.
    Select Add a README file.
    Click Create repository.
-3. key decision to make:
-   Consider the sensitivity of your code and choose the appropriate visibility level which is either public or private
+3. key decision to make:Consider the sensitivity of your code and choose the appropriate visibility level which is either public or private
    A well-written README can help others understand your project and contribute to its development.
 
    
